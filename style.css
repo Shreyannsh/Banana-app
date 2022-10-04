@@ -9,11 +9,11 @@ body{
 
 nav{
     background-color: #F2C94C;
-    height: 3rem;
+    height: 2.5rem;
     padding:1rem ;
-    padding-bottom: 2rem;
     font-size: x-large;
     text-align: center;
+    margin-bottom: 30px;
 }
 main{
     max-width: 600px;
@@ -52,6 +52,8 @@ footer{
 }
 p{
     padding:0rem 20rem;
-    font-size: large;
+    font-size:medium;
 }
-
+h1{
+margin:0rem 1rem
+}
