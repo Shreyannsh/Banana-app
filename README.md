@@ -6,3 +6,4 @@
 6. then the translated language is retrived from json.content.translated file.
 7. And shown as output to the user
 
+Checkout - https://the-banana-talks.netlify.app/
